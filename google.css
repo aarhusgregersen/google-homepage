@@ -1,0 +1,20 @@
+/* LOGO */
+
+img {
+	width: 240px;
+	height: 80px;
+	margin-bottom: 15px;
+}
+
+#footer {
+	height: 35px;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+
+
+#search  {
+	width: 500px;
+	height: 20px;
+}
